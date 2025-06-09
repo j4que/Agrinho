@@ -14,7 +14,7 @@ body {
   
   nav a {
     margin: 0 15px;
-    color: rgb(255, 255, 255);
+    color: rgb(25, 94, 73);
     text-decoration: none;
   }
   
@@ -23,7 +23,7 @@ body {
   }
   
   section {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -36,8 +36,8 @@ body {
   }
   
   footer {
-    background-color: #3d2a2a;
-    color: white;
+    background-color: #2d7e58;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
   }
